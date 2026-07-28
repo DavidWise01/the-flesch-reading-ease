@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1889
+slug  : the-flesch-reading-ease
+seal  : de0bd0bedbe0e139f0f9267220796bb3fc194be0e87f188547407fc4251fc9fc
+prev  : 81db77137a2327b8b214ab8b0fbcb13ebeb0ff0c54f2f2e5880ddc010238703a
+link  : 23d6f078bf60e5b81c6a7c29363dfd74d933d58222757c72d7ea1804436ddf41
+head  : 82ae1ec0d2656cf859e37681740539dbc58186d0183136d9911c1998adc1f6bf
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
